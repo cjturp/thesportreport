@@ -34,6 +34,8 @@ gem 'jbuilder', '~> 2.5'
 
 # Use gem devise for user creation and authentication
 gem 'devise', '~> 4.2'
+# Use bootstrap for styling
+gem 'bootstrap-sass', '~> 3.3', '>= 3.3.6'
 
 
 group :development, :test do
